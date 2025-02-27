@@ -1,0 +1,10 @@
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\obj\Debug\A minha aplicacao.csproj.AssemblyReference.cache
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\obj\Debug\A_minha_aplicacao.Form1.resources
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\obj\Debug\A_minha_aplicacao.Properties.Resources.resources
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\obj\Debug\A minha aplicacao.csproj.GenerateResource.cache
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\obj\Debug\A minha aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\bin\Debug\A minha aplicacao.exe.config
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\bin\Debug\A minha aplicacao.exe
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\bin\Debug\A minha aplicacao.pdb
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\obj\Debug\A minha aplicacao.exe
+C:\Users\redom\source\repos\A minha aplicacao\A minha aplicacao\obj\Debug\A minha aplicacao.pdb
